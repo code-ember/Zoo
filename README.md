@@ -1,2 +1,7 @@
 # CreatingZoo
 Functionality will be enforced by selectively implementing interfaces to replicate the behavior of real animals
+
+Hey there, future Java maestro! You've come a long way, and it's time to bring all those skills together in a fun and exciting final project. Up to this point, you’ve nailed the essentials of Java and object-oriented programming. You learned how to make your code reusable with methods, got familiar with utility classes, and wrapped your head around the ```Main``` class. You explored inheritance, polymorphism, and encapsulation, setting the stage for designing scalable and maintainable code. Plus, you delved into logical program design, access modifiers, abstract classes, and interfaces— all the cool stuff that makes your code robust and efficient.
+
+Now, let’s get you started on an exciting course project: creating a zoo! You will start small with a base ```Animal``` class and two animals: A tiger (land animal) and a dolphin (water animal). These animals will share common properties and functionality from the ```Animal``` class. By extending the ```Animal``` class, you’ll also leverage the power of code reuse, ensuring you set up code to be reused as effectively as possible. Functionality will be enforced by implementing interfaces. The interfaces are implemented selectively to mirror the behavior of actual animals; for example, there is no reason to implement the walking functionality in a dolphin! 
+
